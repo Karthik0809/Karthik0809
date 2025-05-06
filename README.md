@@ -17,7 +17,7 @@ I'm **Karthik**, a Master's student in Computer Science at **University at Buffa
 - 🔍 Actively looking for **Full-Time Roles** in ML Engineering, Data Science, or Data Analytics  
 - 💡 Current interests: Computer Vision, LLMs, Deep Learning, and Scalable ML Pipelines  
 - 🛠️ I enjoy building end-to-end systems from data preprocessing to model deployment  
-- 🌱 Currently upskilling in AWS, and FastAPI
+- 🌱 Currently upskilling in AWS and FastAPI
 
 ---
 
@@ -35,29 +35,30 @@ I'm **Karthik**, a Master's student in Computer Science at **University at Buffa
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-3F7CAC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
+## 💡 Quote I Live By
+
+<p align="center"><i>"Machine learning is like money laundering for bias." – Cassie Kozyrkov</i></p>
+
+---
+
 ## 📊 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/karthikmulugu14?theme=light&font=baloo&ext=contest)](https://leetcode.com/u/karthikmulugu14/)
-
----
-
-## 📫 Get in Touch
-
-- 📧 Email: karthikmulugu14@gmail.com  
-- 🌐 Portfolio: [portfolio-five-beryl-19.vercel.app](https://portfolio-five-beryl-19.vercel.app)  
-- 💼 LinkedIn: [linkedin.com/in/karthikmulugu](https://www.linkedin.com/in/karthikmulugu)
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karthik0809&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://leetcard.jacoblin.cool/karthikmulugu14?theme=dark&ext=heatmap" />
 </p>
+
+---
+
