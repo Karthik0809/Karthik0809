@@ -15,7 +15,7 @@
 I'm **Karthik**, a Master's student in Computer Science at **University at Buffalo**, specializing in **Artificial Intelligence and Machine Learning**. I’m passionate about solving real-world problems using intelligent systems and data-driven solutions.
 
 - 🔍 Actively looking for **Full-Time Roles** in ML Engineering, Data Science, or Data Analytics  
-- 💡 Current interests: Computer Vision, LLMs, Deep Learning, and Scalable ML Pipelines  
+- 💡 Current interests: Computer Vision, LLMs, Deep Learning, and Scalable ML Pipelines, Agentic AI  
 - 🛠️ I enjoy building end-to-end systems from data preprocessing to model deployment  
 - 🌱 Currently upskilling in AWS and FastAPI
 
