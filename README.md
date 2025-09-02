@@ -23,7 +23,7 @@ I'm **Karthik**, a Master's student in Computer Science at **University at Buffa
 
 ## 🚀 What I'm Working On
 
-- 🛒 **RetailScan** – A real-time barcode detection and item classification system for smart checkout  
+- 🔎 **DocuQuery AI Assistant** – An advanced RAG-powered chatbot that processes mortgage and financial PDFs with OCR, delivering accurate, context-aware answers, multi-language support, and export-ready conversations.
 
 ---
 
