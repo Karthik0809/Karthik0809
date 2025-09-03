@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Karthik Mulugu</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | 📚 MS in Computer Science @ University at Buffalo</h3>
+<h3 align="center"> AI/ML Enthusiast | MS in Computer Science @ University at Buffalo</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karthikmulugu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
@@ -10,24 +10,24 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm **Karthik**, a Master's student in Computer Science at **University at Buffalo**, specializing in **Artificial Intelligence and Machine Learning**. I’m passionate about solving real-world problems using intelligent systems and data-driven solutions.
 
-- 🔍 Actively looking for **Full-Time Roles** in ML Engineering, Data Science, or Data Analytics  
-- 💡 Current interests: Computer Vision, LLMs, Deep Learning, and Scalable ML Pipelines, Agentic AI  
-- 🛠️ I enjoy building end-to-end systems from data preprocessing to model deployment  
-- 🌱 Currently upskilling in AWS and FastAPI
+- Actively looking for **Full-Time Roles** in ML Engineering, Data Science, or Data Analytics  
+- Current interests: Computer Vision, LLMs, Deep Learning, and Scalable ML Pipelines, Agentic AI  
+- I enjoy building end-to-end systems from data preprocessing to model deployment  
+- Currently upskilling in AWS and FastAPI
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
-- 🔎 **DocuQuery AI Assistant** – An advanced RAG-powered chatbot that processes mortgage and financial PDFs with OCR, delivering accurate, context-aware answers, multi-language support, and export-ready conversations.
+- **DocuQuery AI Assistant** – An advanced RAG-powered chatbot that processes mortgage and financial PDFs with OCR, delivering accurate, context-aware answers, multi-language support, and export-ready conversations.
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,13 +48,13 @@ I'm **Karthik**, a Master's student in Computer Science at **University at Buffa
 
 ---
 
-## 💡 Quote I Live By
+## Quote I Live By
 
 <p align="center"><i>"Machine learning is like money laundering for bias." – Cassie Kozyrkov</i></p>
 
 ---
 
-## 📊 LeetCode Stats
+## LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/karthikmulugu14?theme=dark&ext=heatmap" />
