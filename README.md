@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/karthikmulugu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:karthikmulugu14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://portfolio-five-beryl-19.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://portfolio-five-beryl-19.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://medium.com/@karthikmulugu14" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 ---
@@ -23,7 +24,9 @@ I'm **Karthik**, a Master's student in Computer Science at **University at Buffa
 
 ## What I'm Working On
 
-- **DocuQuery AI Assistant** – An advanced RAG-powered chatbot that processes mortgage and financial PDFs with OCR, delivering accurate, context-aware answers, multi-language support, and export-ready conversations.
+**AI Engineer Intern — Pronix Inc. (Oct 2025 – Present)**
+
+At Pronix Inc., I build and deploy intelligent chatbots on the Kore.ai XO Platform, integrate REST APIs for real-time automation, and use the BotKit SDK for multi-channel deployments (Web, Teams, Slack). I enhance bot intelligence with RAG Search AI, extractive NLP, and GenAI models (OpenAI, Azure), and optimize the agentic RAG module by improving analytics, retrieval accuracy, and response relevance.
 
 ---
 
