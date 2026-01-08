@@ -13,9 +13,8 @@
 
 ## About Me
 
-I'm **Karthik**, a Master's student in Computer Science at **University at Buffalo**, specializing in **Artificial Intelligence and Machine Learning**. I’m passionate about solving real-world problems using intelligent systems and data-driven solutions.
+I'm **Karthik**, a Computer Science graduate from the **University at Buffalo**, specializing in **Artificial Intelligence and Machine Learning**, with a strong interest in building intelligent, data-driven systems for real-world applications.
 
-- Currently working as an **AI Engineer Intern** at **Pronix Inc.**, building enterprise conversational AI and agentic RAG systems
 - Current interests: Computer Vision, LLMs, Deep Learning, and Scalable ML Pipelines, Agentic AI  
 - I enjoy building end-to-end systems from data preprocessing to model deployment  
 - Currently upskilling in AWS and FastAPI
