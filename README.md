@@ -15,7 +15,7 @@
 
 I'm **Karthik**, a Master's student in Computer Science at **University at Buffalo**, specializing in **Artificial Intelligence and Machine Learning**. I’m passionate about solving real-world problems using intelligent systems and data-driven solutions.
 
-- Actively looking for **Full-Time Roles** in ML Engineering, Data Science, or Data Analytics  
+- Currently working as an **AI Engineer Intern** at **Pronix Inc.**, building enterprise conversational AI and agentic RAG systems
 - Current interests: Computer Vision, LLMs, Deep Learning, and Scalable ML Pipelines, Agentic AI  
 - I enjoy building end-to-end systems from data preprocessing to model deployment  
 - Currently upskilling in AWS and FastAPI
@@ -57,11 +57,6 @@ At Pronix Inc., I build and deploy intelligent chatbots on the Kore.ai XO Platfo
 
 ---
 
-## LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/karthikmulugu14?theme=dark&ext=heatmap" />
-</p>
 
 ---
 
