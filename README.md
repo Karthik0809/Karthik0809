@@ -17,7 +17,7 @@ I'm **Karthik**, a Computer Science graduate from the **University at Buffalo**,
 
 - Current interests: Computer Vision, LLMs, Deep Learning, and Scalable ML Pipelines, Agentic AI  
 - I enjoy building end-to-end systems from data preprocessing to model deployment  
-- Currently upskilling in AWS and FastAPI
+- Currently upskilling in Terraform, Databricks
 
 ---
 
@@ -56,6 +56,4 @@ At Pronix Inc., I build and deploy intelligent chatbots on the Kore.ai XO Platfo
 
 ---
 
-
----
 
