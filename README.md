@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/karthikmulugu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:karthikmulugu14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.karthikmulugu.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://medium.com/@karthikmulugu14" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://medium.com/@karthikmulugu" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 ---
